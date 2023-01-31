@@ -23,7 +23,7 @@ Heroku tidak menjamin 24 Jam ya Cuy!
 
 ## CHANGE SESSION
 
-[`Click Disini`](https://github.com/XrutzMalesin/XrutzB0t/blob/master/session.json#L1)
+[`Click Disini`](https://github.com/MennMpaa/XrutzB0t/blob/master/session.json#L1)
 
 
 ## SETTING OWNER
