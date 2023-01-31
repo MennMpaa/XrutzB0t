@@ -28,7 +28,7 @@ Heroku tidak menjamin 24 Jam ya Cuy!
 
 ## SETTING OWNER
 
-[`Click Disini`](https://github.com/XrutzMalesin/XrutzB0t/blob/master/setting.json#L1)
+[`Click Disini`](https://github.com/MennMpaa/XrutzB0t/blob/master/setting.json)
 
 ## BUILDPACK HEROKU
 
