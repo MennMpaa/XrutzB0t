@@ -23,8 +23,8 @@ exports.gameMenu = (prefix, pushname, isOwner, isPremium, baterai) => {
 き⃟🌊. ${prefix}suit
 き⃟🌊. ${prefix}math
 
-© 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
-*Subs My Channel : Xrutz Official*
+© *_Sc Ori By MennXs Store_*
+*Subs My Channel : MennKhece?*
 *Ketik ${prefix}allmenu biar gak ribet xixi*
 `
 }
