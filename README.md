@@ -44,7 +44,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 ## INSTALL VIA GIT
 
 ```bash
-> git clone https://github.com/XrutzMalesin/XrutzB0t
+> git clone https://github.com/MennMpaa/XrutzB0t
 > cd XrutzB0t
 > npm start
 ```
@@ -65,5 +65,5 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
 ## CONTACT WHATSAPP
-* <a href="https://wa.me/6283871990243"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-* <a href="https://chat.whatsapp.com/KHHxGNw2NQ1KmVbgEQE9nm"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://wa.me/6288298647652"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://chat.whatsapp.com/DtbtVxRjaKvElUl7dWJXzz"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
